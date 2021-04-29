@@ -1,0 +1,7 @@
+I modified the exercise Benjamin gave us yesterday so that it displays three stanzas worth of haikus.
+
+The haikus are populated from two sets of constant variables: one contains strings of five syllables and the other contains strings of seven syllables.
+
+You can remix this easily. All you have to do is insert your own fiveSyllable and sevenSyllable strings in place of mine. And change the placeholder text to make your own unique haikus.
+
+https://github.com/jennyhedley/three-haikus
